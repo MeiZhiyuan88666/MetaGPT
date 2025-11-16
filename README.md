@@ -39,7 +39,7 @@ The MUnd dataset and the benchmark test set can be accessed via the links below.
 
 <div align="center">
   <a href="">
-    <img src="assets/F7-2.png" alt="Logo" style="width: 65%;">
+    <img src="assets/F7-2.png" alt="Logo" style="width: 70%;">
   </a>
 </div>
 
@@ -58,7 +58,7 @@ Our evaluation prompt is shown below.
 
 <div align="center">
   <a href="">
-    <img src="assets/F9.png" alt="Logo" style="width: 60%;">
+    <img src="assets/F9.png" alt="Logo" style="width: 55%;">
   </a>
 </div>
 
