@@ -21,6 +21,8 @@
   <p>
       🌈 We introduce <strong>MetaGPT</strong>, the first vision-language model specifically designed for meme metaphor understanding. MetaGPT is capable of identifying and extracting metaphors in memes, and generating accurate meme interpretations. Furthermore, we construct a dedicated dataset for meme understanding, <strong>MUnd</strong>. Based on MUnd, we further propose an evaluation benchmark for meme understanding and conduct a comprehensive assessment of existing VLMs. Experimental results reveal that current models still face challenges in metaphor comprehension, while MetaGPT consistently outperforms them across all tasks, highlighting its potential in advancing meme understanding. Our code and appendix are available in the supplementary materials.
   </p>
+
+
 ## 🖼️ Datasets
 
 The image sources are available in the following referenced works.
@@ -37,9 +39,10 @@ The MUnd dataset and the benchmark test set can be accessed via the links below.
 
 <div align="center">
   <a href="">
-    <img src="assets/F7-2.png" alt="Logo" style="width: 60%;">
+    <img src="assets/F7-2.png" alt="Logo" style="width: 65%;">
   </a>
 </div>
+
 
 ## 🤖 Model
 
@@ -55,9 +58,10 @@ Our evaluation prompt is shown below.
 
 <div align="center">
   <a href="">
-    <img src="assets/F9.png" alt="Logo" style="width: 50%;">
+    <img src="assets/F9.png" alt="Logo" style="width: 60%;">
   </a>
 </div>
+
 
 ## 🫶🏻 Acknowledgement
 
