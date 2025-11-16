@@ -1,3 +1,0 @@
-CUDA_VISIBLE_DEVICES=2 python meme_Interpretation.py
-CUDA_VISIBLE_DEVICES=2 python metaphor_detection.py
-CUDA_VISIBLE_DEVICES=2 python metaphor_domain_extraction.py
