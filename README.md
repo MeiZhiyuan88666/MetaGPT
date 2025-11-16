@@ -65,6 +65,6 @@ Our evaluation prompt is shown below.
 
 ## 🫶🏻 Acknowledgement
 
-- [**LLava**](https://github.com/haotian-liu/LLaVA)
+- [**LLaVA**](https://github.com/haotian-liu/LLaVA)
 - [**MET-Meme**](https://github.com/liaolianfoka/MET-Meme-A-Multi-modal-Meme-Dataset-Rich-in-Metaphors)
 - [**MEMECAP**](https://github.com/eujhwang/meme-cap)
