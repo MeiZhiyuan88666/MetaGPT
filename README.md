@@ -3,7 +3,7 @@
         <img src="./assets/logo.png" alt="logo" height="40" style="vertical-align: middle; margin-right: 5px;" />
         <b><em>MetaGPT: A Large Vision-Language Model for Meme Metaphor Understanding</em></b>
     </h1>
-    <a href="https://meizhiyuan88666.github.io/MetaGPT.github.io/" target="_blank"  style="display:inline-block;">
+    <a href="https://meizhiyuan88666.github.io/meta-gpt/" target="_blank"  style="display:inline-block;">
         <img alt="Website" src="https://img.shields.io/badge/🌎Website-Meta--GPT-blue.svg" height="25"/>
     </a>
     <a>
